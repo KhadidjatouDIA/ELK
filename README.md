@@ -39,4 +39,4 @@ docker compose up
 ![alt text](image-11.png)
 
 ### 🚀Voilà! Votre stack ELK est maintenant prête à être utilisée ! 🎉
-Auteur: Khadidiatou DIA / sokhnakhadidjah@gmail.com
+Auteur: Khadidiatou DIA / sokhnakhadidjah@gmail.com"# ELK" 
